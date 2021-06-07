@@ -23,7 +23,6 @@ The steps for this Challenge are divided into the following sections:
 KaseiCoin Token Contract - Compiled 
 ![](images/kaseiCoin.png)
 KaseiCoin Crowdsale Contract - Compiled
-![](images/kaseiCoinCrowdsale.png)
-KaseiCoin Crowdsale Deployer - Compiled
+![](images/kaseiCoinCrowsale.png)
+KaseiCoin Crowdsale Metamask
 ![](images/metamask.png)
-
