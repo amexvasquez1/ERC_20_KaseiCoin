@@ -21,9 +21,9 @@ The steps for this Challenge are divided into the following sections:
 
 ## Evaluation Evidence
 KaseiCoin Token Contract - Compiled 
-![](Images/kaseiCoin.png)
+![](images/kaseiCoin.png)
 KaseiCoin Crowdsale Contract - Compiled
-![](Images/kaseiCoinCrowdsale.png)
+![](images/kaseiCoinCrowdsale.png)
 KaseiCoin Crowdsale Deployer - Compiled
-![](Images/metamask.png)
+![](images/metamask.png)
 
